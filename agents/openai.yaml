@@ -1,0 +1,4 @@
+interface:
+  display_name: "ScienceDirect Paper Scraper"
+  short_description: "Scrape ScienceDirect OA PDFs and metadata"
+  default_prompt: "Use $sciencedirect-paper-scraper to crawl ScienceDirect journal search results and save OA PDFs with JSON metadata."
