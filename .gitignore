@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+*.log
+*.err
+*.pid
+.env
+.venv/
+venv/
+chrome-cdp-profiles/
+.chrome*/
+*.pdf
+*.json
+failed_pdfs.jsonl
+
